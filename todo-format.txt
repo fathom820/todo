@@ -1,0 +1,6 @@
+%"task name"
+yyyy.mm.dd
+$"description"
+-"step1"
+-"step2"
+-"step3"
