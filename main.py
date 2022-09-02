@@ -1,14 +1,11 @@
-#!/usr/bin/bash
+#!/usr/bin/python3
 
 # library imports
 import os
 
 # local imports
 import commands
-import api
+import shell
 
 if __name__ == "__main__":
-  # commands.today()
-  
-  while(True):
-    api.listen()
+  shell.listen()

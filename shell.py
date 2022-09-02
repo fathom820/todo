@@ -5,6 +5,4 @@ import os
 # local imports
 
 def listen():
-  cmd = input("todo > ")
-  
-  #TODO: add stuff 
+  print("test")
