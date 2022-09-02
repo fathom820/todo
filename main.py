@@ -4,7 +4,6 @@
 import os
 
 # local imports
-import commands
 import shell
 
 if __name__ == "__main__":
