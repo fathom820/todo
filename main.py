@@ -7,4 +7,5 @@ import os
 import shell
 
 if __name__ == "__main__":
-  shell.listen()
+  while(True):
+    shell.listen()
